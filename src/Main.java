@@ -117,7 +117,7 @@ public class Main {
                 }
             }
             catch (Exception e){
-                System.out.println("\nGib \"j\" (ja) oder \"n\" (nein).");
+                System.out.println("\nBitte gib \"j\" (ja) oder \"n\" (nein).");
                 scanner.nextLine();
             }
         }
